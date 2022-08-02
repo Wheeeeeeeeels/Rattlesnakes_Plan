@@ -16,6 +16,7 @@
    * Fudamentals of Computer Graphics
        * Chapter 01 Basic of Graphics
        * Chapter 02 Basic of Math
+       * Chapter 03 Introduction about Raster Images and RGB,Monitor.
    * Learning OpenGL
 
 * Distributed System && BlockChain
