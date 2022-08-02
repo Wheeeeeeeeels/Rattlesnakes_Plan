@@ -17,6 +17,7 @@
        * Chapter 01 Basic of Graphics
        * Chapter 02 Basic of Math
        * Chapter 03 Introduction about Raster Images and RGB,Monitor.
+       * Chapter 04 Ray Tracing:Ray Generation,intersection,shading
    * Learning OpenGL
 
 * Distributed System && BlockChain
