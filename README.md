@@ -1,2 +1,15 @@
-# Rattlesnakes_Plan
-Too the moon
+#### Rattlesnakes_Plan
+
+* Programming
+
+* CG 
+   * Fudamentals of Computer Graphics
+
+
+* DataBase
+
+
+
+* Compiler
+
+* Web Developemtn && Big Data
