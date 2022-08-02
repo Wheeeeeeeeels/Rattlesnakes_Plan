@@ -17,6 +17,7 @@
        * Chapter 01 讨论数值类型以及一些调试方法；计算机图形学的一些应用
    * Learning OpenGL
 
+* Distributed System && BlockChain
 
 * DataBase
    * Pingcap-Talent-Plan
@@ -29,5 +30,8 @@
 
 * Algorithm
    * LeetCode 
+   * Machine Learning && Deep Learning
+   * NLP && KG
+   * CV
 * Software Developement
 
