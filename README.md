@@ -4,6 +4,7 @@
 
 * CG 
    * Fudamentals of Computer Graphics
+   * Learning OpenGL
 
 
 * DataBase
