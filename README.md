@@ -15,6 +15,7 @@
 * CG 
    * Fudamentals of Computer Graphics
        * Chapter 01 Basic of Graphics
+       * Chapter 02 Basic of Math
    * Learning OpenGL
 
 * Distributed System && BlockChain
