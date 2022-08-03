@@ -25,6 +25,7 @@
        * Chapter 04 Visual Appearance （Light and Color,equation,etc.),Shading Basics
        * Chapter 05 Texturing annd Algorithm etc.
        * Chapter 06 Advanced Shading
+       * Chapter 07 Area and Environmental Lighting
        
    * Learning OpenGL
        * https://learnopengl-cn.github.io/ 
