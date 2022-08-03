@@ -33,12 +33,16 @@
        * GLSL && WebGL && Shader Toy
 
 * Distributed System && BlockChain
-   * MIT 6.284
+ 
   
 
 * DataBase
    * Pingcap-Talent-Plan
-
+        * Rust Programming  && Go Lang
+        * MIT 6.284
+        * TinySQL, a distributed relational database in Go
+        * TinyKV, a distributed key value database in Go
+        * Deep Dive into TiDB Ecosystems
 * Compiler
    * PLAI
    * A little things
