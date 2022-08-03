@@ -33,7 +33,7 @@
    * PLAI
    * A little things
 
-* Web Developemtn && Big Data
+* Web Developement && Big Data
 
 * Algorithm
    * LeetCode 
