@@ -38,5 +38,7 @@
    * Machine Learning && Deep Learning
    * NLP && KG
    * CV
-* Software Developement
+* Software engineering
+   * UML
+* Product Design
 
