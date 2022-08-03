@@ -24,6 +24,7 @@
        * Chapter 03 The Graphics Processing Unit
        * Chapter 04 Visual Appearance （Light and Color,equation,etc.),Shading Basics
        * Chapter 05 Texturing annd Algorithm etc.
+       * Chapter 06 Advanced Shading
        
    * Learning OpenGL
        * https://learnopengl-cn.github.io/ 
