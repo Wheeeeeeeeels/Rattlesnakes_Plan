@@ -28,7 +28,8 @@
        * GLSL && WebGL && Shader Toy
 
 * Distributed System && BlockChain
-       * MIT 6.284
+   * MIT 6.284
+  
 
 * DataBase
    * Pingcap-Talent-Plan
@@ -42,6 +43,7 @@
 * Algorithm
    * LeetCode 
    * Machine Learning && Deep Learning
+      * Machine Learning ZH,Z
    * NLP && KG
    * CV
 * Software engineering
