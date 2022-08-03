@@ -12,7 +12,7 @@
    * JavaScript
    * TypeScript
 
-* CG 
+* CG  && Games
    * Fudamentals of Computer Graphics
        * Chapter 01 Basic of Graphics
        * Chapter 02 Basic of Math
@@ -20,6 +20,7 @@
        * Chapter 04 Ray Tracing:Ray Generation,intersection,shading
    * Learning OpenGL
        * https://learnopengl-cn.github.io/ 
+   * Shader
 
 * Distributed System && BlockChain
 
