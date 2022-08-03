@@ -22,6 +22,7 @@
        * Chapter 01 Inroduction
        * Chapter 02 The Graphics Rendering Pipeline
        * Chapter 03 The Graphics Processing Unit
+       * Chapter 04 Visual Appearance （Light and Color,equation,etc.)
    * Learning OpenGL
        * https://learnopengl-cn.github.io/ 
    * Shader
