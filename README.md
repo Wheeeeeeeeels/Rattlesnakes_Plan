@@ -18,6 +18,10 @@
        * Chapter 02 Basic of Math
        * Chapter 03 Introduction about Raster Images and RGB,Monitor.
        * Chapter 04 Ray Tracing:Ray Generation,intersection,shading
+   * Real-Time Rendering
+       * Chapter 01 Inroduction
+       * Chapter 02 The Graphics Rendering Pipeline
+       * Chapter 03 The Graphics Processing Unit
    * Learning OpenGL
        * https://learnopengl-cn.github.io/ 
    * Shader
