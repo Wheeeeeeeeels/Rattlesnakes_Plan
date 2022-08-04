@@ -29,6 +29,8 @@
    * Game Engine Architecture
        * Chapter 01 Introduction,Game
        * Chapter 02 Tools,Git,SVN,Edit Tools
+       * Chpater 03 Recap of CPP,Basic of Software Development
+       * Chapter 04 **Math of Game
    * GPU GEMS 01
        * Chapter 01 Data-Driven Design
    * Learning OpenGL
