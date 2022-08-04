@@ -26,7 +26,8 @@
        * Chapter 05 Texturing annd Algorithm etc.
        * Chapter 06 Advanced Shading
        * Chapter 07 Area and Environmental Lighting
-       
+   * GPU GEMS 01
+       * Chapter 01 Data-Driven Design
    * Learning OpenGL
        * https://learnopengl-cn.github.io/ 
    * Shader
