@@ -26,6 +26,9 @@
        * Chapter 05 Texturing annd Algorithm etc.
        * Chapter 06 Advanced Shading
        * Chapter 07 Area and Environmental Lighting
+   * Game Engine Architecture
+       * Chapter 01 Introduction,Game
+       * Chapter 02 Tools,Git,SVN,Edit Tools
    * GPU GEMS 01
        * Chapter 01 Data-Driven Design
    * Learning OpenGL
