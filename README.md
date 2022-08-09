@@ -4,6 +4,7 @@
    * C++
      * C++ Concurrency in Action 
         * Chapter 01 Introduction about the C++ Concurrency
+        * Chapter 10 The problem about the Concurency and How to debug it
    * Java
       * Spring
       * MyBatis 
