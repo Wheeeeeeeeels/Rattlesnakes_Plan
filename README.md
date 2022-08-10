@@ -11,6 +11,9 @@
    * Python
    * Go
    * Rust
+       * Rust Basic
+          * Chapter 01 Introduction of Rust,Cargo,data type,comment,function
+          * Chapter 02 if condition,free loop function,owernership(Important)
    * Scala
    * JavaScript
    * TypeScript
