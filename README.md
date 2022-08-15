@@ -10,6 +10,10 @@
       * MyBatis 
    * Python
    * Go
+       * Go Basic
+          * Chapter 01 Basic grammer of the go,data type,variable,constant value 
+          * Chapter 02 Condition,Loop,Pointer,Struct,Slice,Range
+          * Chapter 03 Map,Type_cast,GoRoutine
    * Rust
        * Rust Basic
           * Chapter 01 Introduction of Rust,Cargo,data type,comment,function
