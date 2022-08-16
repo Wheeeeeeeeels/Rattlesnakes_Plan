@@ -1,5 +1,6 @@
 #### Rattlesnakes_Plan
-
+* 开发领域专注：数据库内核，游戏引擎，编译器设计
+* 研究领域专注：VLDB,OSDI,SIGGRAPH,PLDI,NIPS,ACL
 * Programming Language
    * C++
      * C++ Concurrency in Action 
