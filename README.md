@@ -62,8 +62,8 @@
         * Deep Dive into TiDB Ecosystems
 * Compiler
    * PLAI
-       * the basic about the plai
-       * the basic about the parser
+       * The basic about the plai
+       * About the parser,write a small parser
    * A little things
 
 * Web Developement && Big Data
