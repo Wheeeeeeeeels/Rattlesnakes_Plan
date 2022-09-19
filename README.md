@@ -49,6 +49,9 @@
        * Chapter 07 HID(Xbox,PS3)
        * Chapter 08 Debug and Dve Tools
        ###### 【Part03 Graphics and Animations】
+       ###### 【Part04 GamePlay】
+       * GamePlay System Introduction
+       * Run-Time Game Basic System
        ###### 【Part05 Summary】
        * Chapter 15 More Information
    * GPU GEMS 01
