@@ -49,6 +49,7 @@
        * Chapter 07 HID(Xbox,PS3)
        * Chapter 08 Debug and Dve Tools
        ###### 【Part03 Graphics and Animations】
+       * Chapter 12 Collision and Rigid Body ynamics
        ###### 【Part04 GamePlay】
        * Chapter 13 GamePlay System Introduction
        * Chapter 14 Run-Time Game Basic System
