@@ -38,17 +38,19 @@
        * Chapter 06 Advanced Shading
        * Chapter 07 Area and Environmental Lighting
    * Game Engine Architecture
-       【Part01 Basic】
+       * 【Part01 Basic】
        * Chapter 01 Introduction,Game
        * Chapter 02 Tools,Git,SVN,Edit Tools
        * Chpater 03 Recap of CPP,Basic of Software Development
        * Chapter 04 **Math of Game
-       【Part02 Low-Level Engine System】
+       * 【Part02 Low-Level Engine System】
        * Chapter 05 Game Suport Systems
        * Chpater 06 Assests and File Systems
        * Chapter 07 HID(Xbox,PS3)
        * Chapter 08 Debug and Dve Tools
-       【Part03 Graphics and Animations】
+       * 【Part03 Graphics and Animations】
+       * 【Part05 Summary】
+       * Chapter 15 More Information
    * GPU GEMS 01
        * Chapter 01 Data-Driven Design
    * Learning OpenGL
