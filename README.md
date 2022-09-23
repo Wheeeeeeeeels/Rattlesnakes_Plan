@@ -24,6 +24,12 @@
    * TypeScript
 
 * CG  && Games
+    * Vulkman
+    
+    * GLSL
+
+
+
    * Fudamentals of Computer Graphics
        * Chapter 01 Basic of Graphics
        * Chapter 02 Basic of Math
